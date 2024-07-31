@@ -3,7 +3,7 @@
 Spend the last couple of hours (by the help of GPT) to create a small python script for benchmarking the core voltage fluctuactions of the Bitaxe.
 Its simple and follows users input to create something like this:
 
-"Summary of voltage differences:
+Summary of voltage differences:
 
 Core Voltage Actual was on average 0.96% below Core Voltage (1188.447 V), 
 which corresponds to approximately 1.90 minutes of the total monitoring period. 
@@ -16,8 +16,7 @@ Highest Core Voltage Actual Spike: 1239.000 V
 
 Detailed summary (JSON format):
 
-
-{   
+    {   
 
     "Average Percentage below": -0.9627192982456146,
     
@@ -37,7 +36,7 @@ Detailed summary (JSON format):
     
     "Highest Voltage measured": 1239
     
-    }"
+    }
 
 
 All you need to provide is your bitaxe ip, the duration in minutes and the intveral to fetch the data.
