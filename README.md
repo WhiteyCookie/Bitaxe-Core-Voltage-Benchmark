@@ -16,7 +16,8 @@ Highest Core Voltage Actual Spike: 1239.000 V
 
 Detailed summary (JSON format):
 
-{
+
+{   
 
     "Average Percentage below": -0.9627192982456146,
     
