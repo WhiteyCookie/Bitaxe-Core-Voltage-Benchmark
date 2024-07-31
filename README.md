@@ -4,9 +4,16 @@ Spend the last couple of hours (by the help of GPT) to create a small python scr
 Its simple and follows users input to create something like this:
 
 Summary of voltage differences:
-Core Voltage Actual was on average 0.96% below Core Voltage (1188.447 V), which corresponds to approximately 1.90 minutes of the total monitoring period. On average, Core Voltage Actual was 1.44% higher than Core Voltage (1217.317 V), which corresponds to approximately 0.68 minutes of the total monitoring period.
+
+Core Voltage Actual was on average 0.96% below Core Voltage (1188.447 V), 
+which corresponds to approximately 1.90 minutes of the total monitoring period. 
+On average, Core Voltage Actual was 1.44% higher than Core Voltage (1217.317 V), 
+which corresponds to approximately 0.68 minutes of the total monitoring period.
+
 Lowest Core Voltage Actual Spike: 1167.000 V
+
 Highest Core Voltage Actual Spike: 1239.000 V
+
 Detailed summary (JSON format):
 {
     "Average Percentage below": -0.9627192982456146,
