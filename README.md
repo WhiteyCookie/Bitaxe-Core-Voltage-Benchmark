@@ -15,6 +15,7 @@ Lowest Core Voltage Actual Spike: 1167.000 V
 Highest Core Voltage Actual Spike: 1239.000 V
 
 Detailed summary (JSON format):
+
 {
 
     "Average Percentage below": -0.9627192982456146,
@@ -35,7 +36,8 @@ Detailed summary (JSON format):
     
     "Highest Voltage measured": 1239
     
-}"
+    }"
+
 
 All you need to provide is your bitaxe ip, the duration in minutes and the intveral to fetch the data.
 
