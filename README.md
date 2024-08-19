@@ -22,15 +22,15 @@ Detailed summary (JSON format):
     
     "Average_Percentage above": 1.443089430894309,
     
-    "Avarage Duration below": 1.9,
+    "Average Duration below": 1.9,
     
-    "Avarage Duration above": 0.6833333333333333,
+    "Average Duration above": 0.6833333333333333,
     
     "ASIC Voltage Requested": 1200.0,
     
-    "Avarage Voltage below": 1188.4473684210525,
+    "Average Voltage below": 1188.4473684210525,
     
-    "Avarage Voltage above": 1217.3170731707316,
+    "Average Voltage above": 1217.3170731707316,
     
     "Lowest Voltage measured": 1167,
     
