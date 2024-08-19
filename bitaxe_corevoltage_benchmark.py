@@ -118,11 +118,11 @@ def calculate_summary(core_voltage_data, core_voltage_actual_data):
     print(json.dumps({
         "Average Percentage below": average_percentage_below,
         "Average_Percentage above": average_percentage_above,
-        "Avarage Duration below": avg_duration_below,
-        "Avarage Duration above": avg_duration_above,
+        "Average Duration below": avg_duration_below,
+        "Average Duration above": avg_duration_above,
         "ASIC Voltage Requested": avg_voltage,
-        "Avarage Voltage below": avg_voltage_below,
-        "Avarage Voltage above": avg_voltage_above,
+        "Average Voltage below": avg_voltage_below,
+        "Average Voltage above": avg_voltage_above,
         "Lowest Voltage measured": min_voltage_actual,
         "Highest Voltage measured": max_voltage_actual
     }, indent=4))
